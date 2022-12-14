@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kasumi !</h1>
 <h3 align="center">A passionate fullstack developer from French !</h3>
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasumi&label=Profile%20views&color=0e75b6&style=flat" alt="kasumi" /> </p>
 <p align="left">
 </p>
